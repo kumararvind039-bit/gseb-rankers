@@ -40,24 +40,7 @@ A clean, interactive, and mobile-friendly website designed to help students scor
 5. Download and solve previous year papers regularly
 6. Maintain a Mistake Notebook
 
----
 
-## Live Demo
-
-Add your live website link here after deployment  
-Example: `https://yourusername.github.io/gseb-rankers`
-
----
-
-## Deployment
-
-You can deploy this website for free using:
-
-- [Netlify Drop](https://app.netlify.com/drop)
-- [Vercel](https://vercel.com)
-- GitHub Pages
-
-Just upload the `index.html` file.
 
 ---
 
